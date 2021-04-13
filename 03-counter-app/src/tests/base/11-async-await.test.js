@@ -6,7 +6,7 @@ describe('Pruebas con asybc-await y fecth', () => {
 
         const url = await getImagen();
         // expect (typeof url).toBe('string');
-        console.log(url);
+        // console.log(url);
         expect (url.includes('https://')).toBe(true);
     })
 })
