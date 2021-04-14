@@ -6,3 +6,10 @@ body {
     padding: 60px;
 }
 
+input {
+    color: grey;
+    font-size: 1.2rem;
+    width: 100%;
+
+
+}
