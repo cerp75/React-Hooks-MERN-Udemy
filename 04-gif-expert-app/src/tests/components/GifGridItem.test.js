@@ -1,7 +1,7 @@
 import React from 'react';
 import { shallow } from 'enzyme';
 
-import { GifGridItem } from '../../componets/GifGridItem';
+import { GifGridItem } from '../../components/GifGridItem';
 
 describe('Pruebas en <GifGridItem />', () => {
 
